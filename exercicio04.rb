@@ -1,0 +1,1 @@
+#Crie um programa que receba o nome e a idade de duas pessoas e determine qual delas é mais velha:
